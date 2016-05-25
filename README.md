@@ -1,2 +1,2 @@
 # Exercise-chat-projects
-This a repository for a chat program using winforms
+This is a repository for a chat program using winforms
